@@ -4,7 +4,9 @@
 
 - [x] [Лабораторна робота №1](/labs/1.md)
 - [x] [Лабораторна робота №2](/labs/2.md)
+- [ ] [Лабораторна робота №3](/labs/3.md)
 
 ## Work-cases
 
 - [x] [Work-case №1](/workcases/1.md)
+- [ ] [Work-case №2](/workcases/2.md)
