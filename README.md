@@ -15,3 +15,4 @@
 
 - [x] [Work-case №1](/workcases/1.md)
 - [x] [Work-case №2](/workcases/2.md)
+- [ ] [Work-case №3](/workcases/3.md)
