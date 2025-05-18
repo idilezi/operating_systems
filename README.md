@@ -17,3 +17,4 @@
 - [x] [Work-case №2](/workcases/2.md)
 - [ ] [Work-case №3](/workcases/3.md)
 - [ ] [Work-case №4](/workcases/4.md)
+- [ ] [Work-case №5](/workcases/5.md)
