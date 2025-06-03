@@ -21,3 +21,4 @@
 - [ ] [Work-case №4](/workcases/4.md)
 - [ ] [Work-case №5](/workcases/5.md)
 - [ ] [Work-case №6](/workcases/6.md)
+- [ ] [Work-case №7](/workcases/7.md)
