@@ -21,5 +21,5 @@
 - [x] [Work-case №4](/workcases/4.md)
 - [x] [Work-case №5](/workcases/5.md)
 - [x] [Work-case №6](/workcases/6.md)
-- [ ] [Work-case №7](/workcases/7.md)
+- [x] [Work-case №7](/workcases/7.md)
 - [x] [Work-case №8](/workcases/8.md)
